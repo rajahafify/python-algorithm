@@ -5,4 +5,4 @@ WORKDIR /app
 
 COPY . /app
 
-CMD python algorithms/recursive-adder.py
+CMD python algorithms/quicksort.py
